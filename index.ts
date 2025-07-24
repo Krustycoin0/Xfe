@@ -1,2 +1,2 @@
-export * from './InfoAlert';
-export * from './InfoAlert.style';
+export * from './AccordionFAQ';
+export * from './AccordionFAQ.style';
