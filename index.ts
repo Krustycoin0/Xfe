@@ -1,1 +1,2 @@
-export * from './Avatar';
+export * from './InfoAlert';
+export * from './ChainAlert';
