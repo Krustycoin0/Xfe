@@ -1,2 +1,2 @@
 export * from './InfoAlert';
-export * from './ChainAlert';
+export * from './InfoAlert.style';
